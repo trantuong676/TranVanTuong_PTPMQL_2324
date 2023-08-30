@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PTPMQL2324.props" />
+</Project>
