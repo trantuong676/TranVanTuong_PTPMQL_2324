@@ -1,10 +1,10 @@
-public IActionResult Giaiptb2()
+public IActionResult GPTB2()
     {
         return View();
     }
     
     [HttpPost]
-    public IActionResult Giaiptb2(string hesoA, string hesoB, string hesoC)
+    public IActionResult GPTB2(string hesoA, string hesoB, string hesoC)
     {
         double delta, x1, x2, a=0, b=0, c=0;
         string ketqua;
