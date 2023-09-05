@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using PTPMQL2324.Models;
+using PTPMQL2324.Models
 
 namespace PTPMQL2324.Controllers;
 
